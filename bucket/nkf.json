@@ -1,0 +1,14 @@
+{
+    "version": "2.1.5.1-2B",
+    "description": "Unofficial fork of Network Kanji Filter (nkf) with enhancements.",
+    "homepage": "https://github.com/kkato233/nkf",
+    "license": "Zlib",
+    "url": "https://github.com/kkato233/nkf/releases/download/v2.1.5.1-2B/nkf-2.1.5.1.zip",
+    "hash": "67bd8b968824095815dc5ba593dc0d3bc56d9ba108d008005cd60e2eb7dffd8e",
+    "bin": "win/nkf.exe",
+    "checkver": {
+        "url": "https://api.github.com/repos/kkato233/nkf/releases/latest",
+        "jsonpath": "$.tag_name",
+        "regex": "v([\\w.-]+)"
+    }
+}
