@@ -15,3 +15,4 @@ scoop bucket add wizaman https://github.com/wizaman/scoop-bucket
 - **[bundletool](https://github.com/google/bundletool)**: Bundletool is a command-line tool to manipulate Android App Bundles.
 - **[nkf](https://github.com/kkato233/nkf)**: Unofficial fork of Network Kanji Filter (nkf) with enhancements.
 - **[xq](https://github.com/sibprogrammer/xq)**: Command-line XML and HTML beautifier and content extractor.
+- **[zk](https://github.com/zk-org/zk)**: A command-line tool for managing a zettelkasten.
