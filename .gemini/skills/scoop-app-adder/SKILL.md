@@ -34,4 +34,4 @@ This skill automates adding a GitHub-hosted application to this Scoop bucket.
 ## Resource References
 
 - See [references/conventions.md](references/conventions.md) for project standards.
-- Use [references/manifest-template.json](references/manifest-template.json) for the manifest structure.
+- Use [references/manifest-template.json.template](references/manifest-template.json.template) for the manifest structure.
