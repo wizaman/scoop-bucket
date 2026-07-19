@@ -12,6 +12,7 @@ scoop bucket add wizaman https://github.com/wizaman/scoop-bucket
 
 ## Applications
 
+- **[agent-access](https://github.com/bitwarden/agent-access)**: An open protocol, CLI tool, and SDK to provide agents with credentials without exposing their entire vault.
 - **[ax](https://github.com/yusukebe/ax)**: The AI-era curl: fetch, discover, and extract structured data.
 - **[bundletool](https://github.com/google/bundletool)**: Bundletool is a command-line tool to manipulate Android App Bundles.
 - **[just-lsp](https://github.com/terror/just-lsp)**: A language server for just.
